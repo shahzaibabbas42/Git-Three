@@ -1,1 +1,4 @@
 40+ student
+
+30 boys 
+10 girls
